@@ -1,11 +1,13 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
+title: '[BUG/PROBLEM]'
 labels: ''
 assignees: ''
 
 ---
+**Source**
+The XDA thread source for the device. Helps resolving your issue, and what problem we are talking about.
 
 **Describe the bug**
 A clear and concise description of what the bug is.
@@ -19,6 +21,9 @@ Steps to reproduce the behavior:
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
+
+**Way to solve**
+Specify the way/steps to solve the bug/problem if applicable/possible.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
@@ -34,5 +39,14 @@ If applicable, add screenshots to help explain your problem.
  - Browser [e.g. stock browser, safari]
  - Version [e.g. 22]
 
+**Tablet (please complete the following information):**
+ - Device: [e.g. iPad6]
+ - OS: [e.g. iPadOS10]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
+
+**Additional information**
+- TWRP version: [e.g. 3.7.0]
+- App: [e.g. Google Play Store]
 **Additional context**
 Add any other context about the problem here.
