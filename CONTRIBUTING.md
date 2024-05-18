@@ -5,4 +5,4 @@ You can report any type of issues here from my XDA Forums guides. I have some gu
 ### Solvable problems
 If you have problems that are able to be fixed, you can add the steps to fix it to your guide. To confirm this issue, I will try to reproduce the issue on my own device. When I've successfully reproduced it, I will add this issue to the list on the XDA thread and add the steps to fix it.
 ### Unsolvable problems
-If you have problem that aren't able to be fixed, you must mention this in your issue. To confirm this issue, I will try to reproduce the issue on my own device. When I've successfully reproduced it, I will add this issue to the list on the XDA thread.
+If you have problems that aren't able to be fixed, you must mention this in your issue. To confirm this issue, I will try to reproduce the issue on my own device. When I've successfully reproduced it, I will add this issue to the list on the XDA thread.
